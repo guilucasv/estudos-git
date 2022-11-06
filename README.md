@@ -58,8 +58,19 @@ git push
 git push <nome-remote> <nome-branch>
 git push origin main
 ```
- 
+
+#### Listar as branchs
+```
+git branch -v
+```
+
+
+#### Listar os remotes
+```
+git remote -v
+```
 
 # Referências
 
 [Guia do Git](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+
